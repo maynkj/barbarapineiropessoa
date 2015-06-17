@@ -263,6 +263,11 @@ section.success a.active {
   text-align: justify;
 }
 
+#about .spanish,
+#about .portuguese {
+  padding: 0 100px;
+}
+
 .btn-outline {
   margin-top: 15px;
   border: solid 2px #fff;
